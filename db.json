@@ -1,6 +1,8 @@
 {
   "posts": [
-    {"id": 1,"name": "Leanne Graham","username": "Bret","email": "Sincere@april.biz","phone": "1-770-736-8031 x56442","website": "hildegard.org"}
+    {"id": 1,"name": "0 Leanne Graham","username": "Bret","email": "Sincere@april.biz","phone": "1-770-736-8031 x56442","website": "hildegard.org"},
+    {"id": 2,"name": "1 Leanne Graham","username": "Bret","email": "Sincere@april.biz","phone": "1-770-736-8031 x56442","website": "hildegard.org"},
+    {"id": 3,"name": "2 Leanne Graham","username": "Bret","email": "Sincere@april.biz","phone": "1-770-736-8031 x56442","website": "hildegard.org"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
